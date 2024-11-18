@@ -8,3 +8,4 @@ Mozilla.Firefox*
 Opera.Opera*
 TeamViewer.TeamViewer*
 Romanitho.Winget-AutoUpdate
+Devolutions.RemoteDesktopManager
